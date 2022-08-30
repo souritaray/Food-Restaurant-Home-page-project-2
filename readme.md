@@ -11,6 +11,9 @@ This is a simple front end project done with the help of HTML and CSS only.
 
 ![outputimg](output.png)
 
+## Live Link
+
+[Food Restaurant Home Page](https://restaurant-home-pg-souritaray.netlify.app/)
 
 ## What have I learnt in this project?
 
